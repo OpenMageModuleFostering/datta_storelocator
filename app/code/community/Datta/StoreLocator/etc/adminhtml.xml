@@ -39,6 +39,11 @@
 					<sort_order>1</sort_order>
 					<action>datta_storelocator/adminhtml_store</action>
 				</datta_storelocator>
+                <configuration>
+                    <title>Configuration Settings</title>
+                    <sort_order>100</sort_order>
+                    <action>adminhtml/system_config/edit/section/storelocator</action>
+                </configuration>
 			</children>
 		</datta>
 	</menu>

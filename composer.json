@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
-    "description": "Store locator allow to locate multiple stores on the Google map. It allow to administrator to add multiple store locations and allow point/mark to exact store location on the Google map. It will store the longitude and latitude and it will displayed store location's based on the back end stored information on the front end. Visitors can able to view store location on the Google map.  ",
+    "description": "It shows store location's on Google map based on stored information in back end.",
     "authors": [
     {
         "name": "Dattatray Yadav",

@@ -31,7 +31,7 @@ class Datta_StoreLocator_Block_Adminhtml_Store_Edit_Form extends Mage_Adminhtml_
 {
     /**
      * Init class
-     */
+     */                         
     public function __construct()
     {
         parent::__construct();
