@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Datta_Storelocator",
+    "name": "openmage-module-fostering\/datta_storelocator",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "It shows store location's on Google map based on stored information in back end.",
     "authors": [
